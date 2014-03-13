@@ -9,4 +9,4 @@ A native Mac OS X plugin for Unity and its test project.
 
 * MultiTouchTest
 
-    * Unity application that uses MultiTouchPlugin.
+    * An Unity application which using MultiTouchPlugin.
