@@ -2,7 +2,7 @@
 
 This is my study project.
 
-  It is distributed under the GNU General Public License - see the accompanying
+  Distributed under the GNU General Public License - see the accompanying
   COPYING file for more details.
 
 ## Reference
